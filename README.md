@@ -1,2 +1,2 @@
 # Little_Lemon_Newsletter
-his project was created during Meta's React Navtive Course.  This application is an application that for signing up for a Newsletter Subscription. It utilizes ReactNative.  Implements Navigation, Basic Components and Style Sheets.
+This project was created during Meta's React Navtive Course.  This application is an application that for signing up for a Newsletter Subscription. It utilizes ReactNative.  Implements Navigation, Basic Components and Style Sheets.
